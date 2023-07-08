@@ -1,5 +1,5 @@
 import React from 'react'
-import Compiler from './HOME/Compiler'
+import Compiler from './Home/Compiler'
 import {
   MDBBtn,
   MDBContainer,

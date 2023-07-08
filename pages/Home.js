@@ -5,13 +5,13 @@ import { Inter } from 'next/font/google'
 // import Link from 'next/link'
 // import {useRouter} from 'next/router'
 // import styles from '@/styles/Home.module.css'
-import PicCards from './HOME/Piccards'
+import PicCards from './Home/Piccards'
 // import Link from 'next/link'
 import {useRouter} from 'next/router'
-import Number from './HOME/Number'
-import Footer from './HOME/Footer'
-import Nav2 from './HOME/Nav2'
-import Demo from './HOME/Demo'
+import Number from './Home/Number'
+import Footer from './Home/Footer'
+import Nav2 from './Home/Nav2'
+import Demo from './Home/Demo'
 
 
 const Home = () => {
